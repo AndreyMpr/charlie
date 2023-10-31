@@ -1,2 +1,2 @@
 # charlie
-A website for Charlie Spice in Hakodate
+A website for Charlie Spice in Hakodate.
