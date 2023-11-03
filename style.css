@@ -1,17 +1,19 @@
 .top_block{
     background-color: #FB264F;
     height: 99px;
+    border-radius: 22px;
 }
-
-.mid_body{
+.mid_block{
     background-color: #FDE8EC;
     height: 641px;
+    border-radius: 22px;
 }
 
 .bottom_block{
     background-color: #FB264F;
     height: 99px;
     margin-top: 13px;
+    border-radius: 22px;
 }
 h1 {
     margin: 0px;
