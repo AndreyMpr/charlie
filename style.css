@@ -4,8 +4,7 @@
     border-radius: 22px;
 }
 .mid_block{
-    background-color: #FDE8EC;
-    height: 641px;
+    background: linear-gradient(0deg, rgba(253,232,236,1) 70%, rgba(255,255,255,1) 100%);    height: 641px;
     border-radius: 22px;
 }
 
