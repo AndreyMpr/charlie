@@ -36,3 +36,24 @@ body, html {
     position: absolute;
     left: 42%;
   }
+  .bottom_block{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  menu-1{
+    font-size: 22px;
+    color: #FDFFAC;
+  }
+  menu-2{
+    font-size: 22px;
+    color: #FDFFAC;
+  }
+  menu-3{
+    font-size: 22px;
+    color: #FDFFAC;
+  }
+  menu-4{
+    font-size: 22px;
+    color: #FDFFAC;
+  }
