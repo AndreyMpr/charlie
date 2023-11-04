@@ -10,6 +10,9 @@ body, html {
       background: linear-gradient(270deg, rgba(251,38,79,1) 79%, rgba(255,255,255,1) 92%);
       height: 99px;
       border-radius: 46.5px;
+      display: flex;
+      align-items: center;
+      position: relative;
   }
   .mid_block{
       background: linear-gradient(0deg, rgba(253,232,236,1) 70%, rgba(255,255,255,1) 100%);
@@ -25,4 +28,10 @@ body, html {
   }
   h1{
       margin: 0px;
+  }
+  top-title{
+    font-size: 32px;
+    color: #FDFFAC;
+    position: absolute;
+    left: 45%;
   }
