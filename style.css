@@ -44,6 +44,7 @@ body, html {
   menu-1{
     font-size: 22px;
     color: #FDFFAC;
+    padding-left: 10%;
   }
   menu-2{
     font-size: 22px;
@@ -56,4 +57,5 @@ body, html {
   menu-4{
     font-size: 22px;
     color: #FDFFAC;
+    padding-right: 10%;
   }
