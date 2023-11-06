@@ -43,8 +43,10 @@ body, html {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
   }
-
+/*
   menu-1{
     font-size: 22px;
     color: #ffffff;
@@ -65,4 +67,16 @@ body, html {
     font-size: 22px;
     color: #ffffff;
     padding-right: 10%;
+  }
+  */
+  button{
+    font-family: sans-serif;
+    font-size: 22px;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+  }
+  button:hover{
+    color: #FDFFAC;
+    transition: 0.5s;
   }
