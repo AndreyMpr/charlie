@@ -74,12 +74,13 @@ body, html {
     font-size: 22px;
     background: transparent;
     border: none;
+    border-bottom: 2px solid transparent;
     color: #ffffff;
   }
 
   button:hover{
     color: #FDFFAC;
-    /*transition: 0.3s;*/
-    padding: 3px;
+    transition: 0.3s;
     border-bottom: 2px solid #FDFFAC
   }
+
