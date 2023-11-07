@@ -75,9 +75,10 @@ body, html {
     background: transparent;
     border: none;
     color: #ffffff;
-
   }
+
   button:hover{
     color: #FDFFAC;
     transition: 0.5s;
+    border-bottom: 4px, #FDFFAC
   }
