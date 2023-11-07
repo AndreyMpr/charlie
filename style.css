@@ -79,6 +79,7 @@ body, html {
 
   button:hover{
     color: #FDFFAC;
-    transition: 0.3s;
-    border-bottom: 1px solid #FDFFAC
+    /*transition: 0.3s;*/
+    padding: 3px;
+    border-bottom: 2px solid #FDFFAC
   }
