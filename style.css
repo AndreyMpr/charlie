@@ -47,29 +47,7 @@ body, html {
     padding-left: 5%;
     padding-right: 5%;
   }
-/*
-  menu-1{
-    font-size: 22px;
-    color: #ffffff;
-    padding-left: 10%;
-  }
 
-  menu-2{
-    font-size: 22px;
-    color: #FDFFAC;
-  }
-
-  menu-3{
-    font-size: 22px;
-    color: #ffffff;
-  }
-  
-  menu-4{
-    font-size: 22px;
-    color: #ffffff;
-    padding-right: 10%;
-  }
-  */
   button{
     font-size: 22px;
     background: transparent;
@@ -83,4 +61,7 @@ body, html {
     transition: 0.3s;
     border-bottom: 2px solid #FDFFAC
   }
-
+  .active-page{
+    color: #FDFFAC;
+    border-bottom: 2px solid #FDFFAC
+  }
