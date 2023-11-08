@@ -59,9 +59,10 @@ body, html {
   button:hover{
     color: #FDFFAC;
     transition: 0.3s;
-    border-bottom: 2px solid #FDFFAC
+    border-bottom: 2px solid #FDFFAC;
   }
+
   .active-page{
     color: #FDFFAC;
-    border-bottom: 2px solid #FDFFAC
+    border-bottom: 2px solid #FDFFAC;
   }
