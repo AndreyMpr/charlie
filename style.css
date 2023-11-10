@@ -91,3 +91,9 @@ body, html {
     font-size: inherit;
     font-weight:inherit;
   }
+  .phone-button{
+    background-color: #FDFFAC;
+    color: #FB264F;
+    border-color: #F1D230;
+    border-radius: 11px;
+  }
