@@ -96,4 +96,7 @@ body, html {
     color: #FB264F;
     border-color: #F1D230;
     border-radius: 11px;
+    position: fixed;
+    bottom: 6em;
+    right: 1em;
   }
