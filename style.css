@@ -100,6 +100,11 @@ body, html {
     position: fixed;
     bottom: 6em;
     right: 1em;
+    bottom: 7.3em;
+    font-size: 18px;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
   .phone-button:hover{
     color: #FB264F;
