@@ -94,9 +94,16 @@ body, html {
   .phone-button{
     background-color: #FDFFAC;
     color: #FB264F;
+    border: 2px solid #F1D230;
     border-color: #F1D230;
     border-radius: 11px;
     position: fixed;
     bottom: 6em;
     right: 1em;
+  }
+  .phone-button:hover{
+    color: #FB264F;
+    transition: 0.3s;
+    border: 2px solid #F1D230;
+    background-color: #fff2a6;
   }
