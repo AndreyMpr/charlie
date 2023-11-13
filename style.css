@@ -5,6 +5,7 @@ body, html {
     display: flex;
     flex-direction: column;
     font-family: sans-serif;
+    min-height: 400px;
   }
   
   .top_block{
