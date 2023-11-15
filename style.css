@@ -117,3 +117,7 @@ body, html {
     border: 2px solid #F1D230;
     background-color: #fff2a6;
   }
+
+  .presentation-image{
+    animation: fadeIn 5s;
+  }
