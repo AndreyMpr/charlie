@@ -8,7 +8,7 @@ body, html {
     min-height: 760px;
   }
   
-  .top_block{
+  .top-block{
       background: linear-gradient(270deg, rgba(251,38,79,1) 79%, rgba(255,255,255,1) 92%);
       height: 99px;
       border-radius: 46.5px;
@@ -17,14 +17,14 @@ body, html {
       position: relative;
   }
 
-  .mid_block{
+  .mid-block{
       background: linear-gradient(0deg, rgba(253,232,236,1) 70%, rgba(255,255,255,1) 100%);
       flex-grow: 1;
       border-radius: 22px;
       padding: 15px;
   }
   
-  .bottom_block{
+  .bottom-block{
       background-color: #FB264F;
       height: 99px;
       margin-top: 13px;
@@ -41,7 +41,7 @@ body, html {
     margin: 0 auto;
 
   }
-  .bottom_block{
+  .bottom-block{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -68,7 +68,7 @@ body, html {
     border-bottom: 2px solid #FDFFAC;
   }
 
-  .google_maps{
+  .google-maps{
     max-width:100%;
     overflow:hidden;
     width:100%;
@@ -84,7 +84,7 @@ body, html {
     max-width:100%;
   }
   
-  .maps_iframe{
+  .maps-iframe{
     height:100%;
     width:100%;
     border:0;
@@ -121,3 +121,5 @@ body, html {
   .presentation-image{
     border-radius: 22px;
   }
+
+  
