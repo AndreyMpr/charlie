@@ -115,8 +115,8 @@ body, html {
   .phone-button:hover{
     color: #FB264F;
     transition: 0.3s;
-    border: 2px solid #F1D230;
-    background-color: #fff2a6;
+    border: 2px solid #f1ad30;
+    background-color: #eed173;
   }
 
   .presentation-image{
