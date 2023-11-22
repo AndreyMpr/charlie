@@ -79,8 +79,11 @@ body, html {
     border-bottom: 2px solid #FDFFAC;
   }
 
-  .active-page{
+  .nav-button-active{
     color: #FDFFAC;
+    font-size: 20px;
+    background: transparent;
+    border: none;
     border-bottom: 2px solid #FDFFAC;
   }
 
