@@ -133,4 +133,7 @@ body, html {
   .yoyaku-button{
     background-color: #FB264F;
     border: #FDFFAC;
+    color: #FDFFAC;
+    border-radius: 11px;
+    padding: 6px;
   }
