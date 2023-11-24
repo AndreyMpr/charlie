@@ -132,8 +132,12 @@ body, html {
 
   .yoyaku-button{
     background-color: #FB264F;
-    border: #FDFFAC;
+    border: 2px solid  #FDFFAC;
     color: #FDFFAC;
     border-radius: 11px;
     padding: 6px;
+  }
+  .yoyaku-button:hover{
+    border: 2px solid #f1ad30;
+    background-color: #cc1d40;
   }
