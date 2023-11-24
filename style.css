@@ -111,7 +111,6 @@ body, html {
     border-color: #F1D230;
     border-radius: 11px;
     position: fixed;
-    bottom: 6em;
     right: 1em;
     bottom: 7.3em;
     font-size: 18px;
@@ -140,4 +139,5 @@ body, html {
   .yoyaku-button:hover{
     border: 2px solid #eef08d;
     background-color: #e22248;
+    font-size: 18px;
   }
