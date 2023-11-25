@@ -127,6 +127,7 @@ body, html {
 
   .presentation-image{
     border-radius: 22px;
+    max-width: 70vh;
   }
 
   .yoyaku-button{
