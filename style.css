@@ -129,6 +129,9 @@ body, html {
   .presentation-image{
     border-radius: 22px;
     max-width: 70vh;
+    border: solid 3px;
+    border-radius: 22px;
+    border-image: linear-gradient(0deg, rgba(251,38,79,1) 19%, rgb(247, 228, 232) 92%) 1;
   }
 
   .yoyaku-button{
