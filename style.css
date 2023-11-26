@@ -85,6 +85,10 @@ body, html {
     flex-grow: 1;
     border-radius: 22px;
     margin-bottom: 15px;
+    border: solid 3px;
+    border-image: linear-gradient(0deg, rgba(251,38,79,1) 19%, rgb(247, 228, 232) 92%) 1;
+    background: linear-gradient(#FB264F, #FB264F) padding-box, linear-gradient(0deg, rgba(251,38,79,1) 19%, rgb(247, 228, 232) 92%) border-box;
+    border: 4px solid transparent;
   }
 
   #google-maps-canvas{
@@ -134,7 +138,7 @@ body, html {
     background: linear-gradient(#FB264F, #FB264F) padding-box, linear-gradient(0deg, rgba(251,38,79,1) 19%, rgb(247, 228, 232) 92%) border-box;
     border: 4px solid transparent;
     }
-    
+
   .yoyaku-button{
     background-color: #FB264F;
     border: 2px solid  #FDFFAC;
