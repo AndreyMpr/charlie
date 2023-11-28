@@ -81,6 +81,7 @@ body, html {
   }
 
   .google-maps{
+    box-sizing: border-box;
     max-width:100%;
     overflow:hidden;
     width:100%;
