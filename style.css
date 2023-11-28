@@ -135,6 +135,7 @@ body, html {
   }
 
   .presentation-image{
+    box-sizing: border-box;
     border-radius: 22px;
     max-width: 70vh;
     border-image: linear-gradient(0deg, rgba(251,38,79,1) 19%, rgb(247, 228, 232) 92%) 1;
