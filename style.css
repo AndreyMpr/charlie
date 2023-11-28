@@ -39,6 +39,11 @@ body, html {
     margin-top: 13px;
     border-radius: 22px;
     min-height: 99px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
   }
   
   h1{
@@ -50,14 +55,6 @@ body, html {
     font-weight: 600;
     color: #FDFFAC;
     margin: 0 auto;
-  }
-
-  .bottom-block{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding-left: 5%;
-    padding-right: 5%;
   }
 
   .nav-button{
