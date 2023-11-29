@@ -159,3 +159,30 @@ body, html {
     background-color: #e22248;
     font-size: 16px;
   }
+
+  .col-25 {
+    width: 25%;
+    float: left;
+    margin-top: 6px;
+  }
+  /*This command sets the width of `<div> containing the col-75 class to a fraction of the total width of the row <div>
+  */
+  .col-75 {
+    width: 75%;
+    float: left;
+    margin-top: 6px;
+  }
+  
+  /*This command sets the width of the tag you working with
+  */
+  input[type = text] {
+    width : 100%;
+  }
+  
+  /*This part ensures the text after each form element stays in place after the float command.
+  */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
