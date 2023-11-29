@@ -16,13 +16,12 @@ body, html {
     align-items: center;
     position: relative;
   }
-
-  /*Fix the issue with the middle block being shifted to the rigth off center. */
   
   .mid-block{
     background: linear-gradient(0deg, rgba(253,232,236,1) 70%, rgba(255,255,255,1) 100%);
     flex-grow: 1;
     border-radius: 22px;
+    padding: 10px;
   }
 
   .emb-menu{
