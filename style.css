@@ -179,6 +179,10 @@ body, html {
     width : 100%;
   }
   
+  .row{
+    margin: 30px;
+  }
+
   /*This part ensures the text after each form element stays in place after the float command.
   */
   .row:after {
