@@ -176,6 +176,7 @@ body, html {
   input[type = text] {
     width : 100%;
     border-radius: 6px;
+    border-color: #f1ad30;
   }
   
   .row{
