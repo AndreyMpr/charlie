@@ -49,7 +49,7 @@ body, html {
       margin: 0px;
   }
 
-  top-title{
+  .top-title{
     font-size: 26px;
     font-weight: 600;
     color: #FDFFAC;
@@ -183,6 +183,7 @@ body, html {
   
   .row{
     margin: 30px;
+    max-width: 85%;
   }
 
   /*This part ensures the text after each form element stays in place after the float command.
