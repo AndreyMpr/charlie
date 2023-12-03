@@ -6,6 +6,7 @@ body, html {
     flex-direction: column;
     font-family: sans-serif;
     min-height: 760px;
+    box-sizing: border-box;
   }
   
   .top-block{
