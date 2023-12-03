@@ -165,12 +165,14 @@ body, html {
     width: 25%;
     float: left;
     margin-top: 6px;
+    margin-bottom: 20px;
   }
 
   .col-75 {
     width: 75%;
     float: left;
     margin-top: 6px;
+    margin-bottom: 20px;
   }
   
   input[type = text] {
