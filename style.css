@@ -26,7 +26,6 @@ body, html {
   }
 
   .emb-menu{
-    box-sizing: border-box;
     border-radius: 22px;
     border-image: linear-gradient(0deg, rgba(251,38,79,1) 19%, rgb(247, 228, 232) 92%) 1;
     background: linear-gradient(#FB264F, #FB264F) padding-box, linear-gradient(0deg, rgba(251,38,79,1) 19%, rgb(247, 228, 232) 92%) border-box;
@@ -103,7 +102,7 @@ body, html {
   .maps-iframe{
     height:100%;
     width:100%;
-    /*border:0;*/
+    border:0;
   }
 
   #google-maps-canvas img{
