@@ -197,3 +197,8 @@ body, html {
     display: table;
     clear: both;
   }
+
+  .instagram-widget{
+    border-radius: 22px;
+    z-index: 1;
+  }
