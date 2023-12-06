@@ -43,6 +43,9 @@ body, html {
     align-items: center;
     padding-left: 5%;
     padding-right: 5%;
+    position: fixed;
+    min-width: 100%;
+    bottom: 0%;
   }
   
   h1{
