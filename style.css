@@ -45,7 +45,8 @@ body, html {
     padding-right: 5%;
     position: fixed;
     min-width: 100%;
-    bottom: 0%;
+    bottom: 1%;
+    max-width: 100%;
   }
   
   h1{
